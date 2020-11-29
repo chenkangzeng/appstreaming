@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T09:03:43.782Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="orlN7mvxIosM-6iWidEt" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T09:12:08.461Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="AjLzFD626wo9n77kCDYz" version="13.10.4" type="github">
   <diagram id="v8FIyj6-tNv1zjd0D3WM" name="Page-1">
     <mxGraphModel dx="1038" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kvXipWGZ7Jy9fMiuD0g3-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="630" y="170" width="210" height="370" as="geometry" />
+          <mxGeometry x="630" y="170" width="240" height="370" as="geometry" />
         </mxCell>
         <mxCell id="kvXipWGZ7Jy9fMiuD0g3-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="210" y="180" width="280" height="360" as="geometry" />
+          <mxGeometry x="190" y="180" width="300" height="360" as="geometry" />
         </mxCell>
         <mxCell id="kvXipWGZ7Jy9fMiuD0g3-2" value="登录服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="460" width="200" height="60" as="geometry" />
@@ -85,13 +85,28 @@
           <mxGeometry x="260" y="200" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="kvXipWGZ7Jy9fMiuD0g3-34" value="零终端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="210" y="390" width="70" height="30" as="geometry" />
+          <mxGeometry x="190" y="370" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kvXipWGZ7Jy9fMiuD0g3-36" value="服务端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="770" y="385" width="70" height="30" as="geometry" />
+          <mxGeometry x="800" y="315" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kvXipWGZ7Jy9fMiuD0g3-37" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="665" y="460" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kvXipWGZ7Jy9fMiuD0g3-38" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="800" y="335" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kvXipWGZ7Jy9fMiuD0g3-39" value="" style="image;html=1;image=img/lib/clip_art/networking/Modem_128x128.png;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="205" y="230" width="40" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="kvXipWGZ7Jy9fMiuD0g3-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=17;" edge="1" parent="1" source="kvXipWGZ7Jy9fMiuD0g3-40" target="kvXipWGZ7Jy9fMiuD0g3-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kvXipWGZ7Jy9fMiuD0g3-40" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user_accounts.svg;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="60" y="248.25" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kvXipWGZ7Jy9fMiuD0g3-42" value="登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="116" y="245" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
