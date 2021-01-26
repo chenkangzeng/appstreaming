@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T08:47:45.532Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="rzj1jDK8kFWBmB81NsP_" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T08:48:39.618Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="jWQEXmQkcHgjklMWB9zI" version="14.2.7" type="github">
   <diagram id="Bxri4yuI9X8mxe33feLE" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             <mxPoint x="350" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eJg1GtlvNM7DXyAidkBG-1" value="&lt;font color=&quot;#3333ff&quot;&gt;网关（认证/解析token）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="eJg1GtlvNM7DXyAidkBG-1" value="&lt;font color=&quot;#3333ff&quot;&gt;网关（接口认证/解析token）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="140" y="110" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eJg1GtlvNM7DXyAidkBG-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.917;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eJg1GtlvNM7DXyAidkBG-2" target="eJg1GtlvNM7DXyAidkBG-8">
