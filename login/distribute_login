@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T02:54:28.994Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Y1EWWAweIe-fal0P6PS5" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T07:23:02.070Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="z-4zZ8kNh_9Rdvpffwwd" version="14.2.7" type="github">
   <diagram id="Bxri4yuI9X8mxe33feLE" name="Page-1">
     <mxGraphModel dx="1038" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
             <mxPoint x="350" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eJg1GtlvNM7DXyAidkBG-1" value="&lt;font color=&quot;#3333ff&quot;&gt;网关（接口认证/解析token）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="eJg1GtlvNM7DXyAidkBG-1" value="&lt;font color=&quot;#3333ff&quot;&gt;网关（接口认证/解析token）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="140" y="110" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eJg1GtlvNM7DXyAidkBG-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.917;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eJg1GtlvNM7DXyAidkBG-2" target="eJg1GtlvNM7DXyAidkBG-8" edge="1">
@@ -64,7 +64,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eJg1GtlvNM7DXyAidkBG-8" value="web/device" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="eJg1GtlvNM7DXyAidkBG-8" value="web/device" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="140" y="30" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eJg1GtlvNM7DXyAidkBG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="eJg1GtlvNM7DXyAidkBG-9" edge="1">
@@ -83,10 +83,10 @@
         <mxCell id="eJg1GtlvNM7DXyAidkBG-31" value="微服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="140" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="udlH0PS8xRp86_2PTR1g-1" value="阿里云帐号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="udlH0PS8xRp86_2PTR1g-1" value="阿里云帐号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="620" y="10" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="udlH0PS8xRp86_2PTR1g-2" value="IDAAS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="udlH0PS8xRp86_2PTR1g-2" value="IDAAS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="620" y="60" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
