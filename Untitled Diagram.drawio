@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T08:32:24.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="GBrVDNhNJRENzUB89faI" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-22T08:37:54.440Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="pjZtWdhPgg0dPl7FxJQp" version="14.5.8" type="github">
   <diagram id="3L4fipcfEHHzqD1ao-7o" name="Page-1">
     <mxGraphModel dx="1298" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BqDiw1rHWKKuVesqQ5OS-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="590" y="200" width="380" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="BqDiw1rHWKKuVesqQ5OS-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="320" height="290" as="geometry" />
+        </mxCell>
         <mxCell id="BqDiw1rHWKKuVesqQ5OS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BqDiw1rHWKKuVesqQ5OS-1" target="BqDiw1rHWKKuVesqQ5OS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -21,7 +27,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BqDiw1rHWKKuVesqQ5OS-2" value="阿里云账号" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="BqDiw1rHWKKuVesqQ5OS-2" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="170" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqDiw1rHWKKuVesqQ5OS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BqDiw1rHWKKuVesqQ5OS-3" target="BqDiw1rHWKKuVesqQ5OS-10">
@@ -45,6 +51,11 @@
         <mxCell id="BqDiw1rHWKKuVesqQ5OS-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BqDiw1rHWKKuVesqQ5OS-15" target="BqDiw1rHWKKuVesqQ5OS-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BqDiw1rHWKKuVesqQ5OS-21" value="读取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BqDiw1rHWKKuVesqQ5OS-17">
+          <mxGeometry x="0.0789" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BqDiw1rHWKKuVesqQ5OS-15" value="企业用户列表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -53,8 +64,19 @@
             <mxPoint x="730" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BqDiw1rHWKKuVesqQ5OS-20" value="读取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BqDiw1rHWKKuVesqQ5OS-19">
+          <mxGeometry x="-0.1837" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BqDiw1rHWKKuVesqQ5OS-16" value="企业桌面列表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BqDiw1rHWKKuVesqQ5OS-26" value="阿里云账号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BqDiw1rHWKKuVesqQ5OS-28" value="企业用户账号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="629" y="460" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
