@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T02:56:21.832Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="qgwL_O_h0T0qcdNmC9oz" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T02:57:26.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="YTzhFY_Mz8mUnb9X10Kg" version="14.6.6" type="github">
   <diagram id="z3EkflEHP3g3SHfT6AcB" name="Page-1">
     <mxGraphModel dx="1298" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,10 +7,10 @@
         <mxCell id="QyhtD6lABOpPmDqngVYn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QyhtD6lABOpPmDqngVYn-4" target="QyhtD6lABOpPmDqngVYn-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QyhtD6lABOpPmDqngVYn-4" value="console" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyhtD6lABOpPmDqngVYn-4" value="管控前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QyhtD6lABOpPmDqngVYn-5" value="open api gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyhtD6lABOpPmDqngVYn-5" value="open api 网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyhtD6lABOpPmDqngVYn-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QyhtD6lABOpPmDqngVYn-8">
@@ -21,10 +21,10 @@
         <mxCell id="QyhtD6lABOpPmDqngVYn-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QyhtD6lABOpPmDqngVYn-8" target="QyhtD6lABOpPmDqngVYn-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QyhtD6lABOpPmDqngVYn-8" value="service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyhtD6lABOpPmDqngVYn-8" value="应用微服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QyhtD6lABOpPmDqngVYn-10" value="App User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyhtD6lABOpPmDqngVYn-10" value="企业用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QyhtD6lABOpPmDqngVYn-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="QyhtD6lABOpPmDqngVYn-8">
@@ -36,7 +36,7 @@
           <mxGeometry x="240" y="269" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QyhtD6lABOpPmDqngVYn-15" value="DB" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="430" width="60" height="50" as="geometry" />
+          <mxGeometry x="135" y="440" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyhtD6lABOpPmDqngVYn-16" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -53,7 +53,7 @@
         <mxCell id="QyhtD6lABOpPmDqngVYn-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QyhtD6lABOpPmDqngVYn-20" target="QyhtD6lABOpPmDqngVYn-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QyhtD6lABOpPmDqngVYn-20" value="权限权限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QyhtD6lABOpPmDqngVYn-20" value="权限分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
