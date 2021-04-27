@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T02:57:26.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="YTzhFY_Mz8mUnb9X10Kg" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T03:00:09.629Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="_sqU_MxtDFw0johIUhrD" version="14.6.6" type="github">
   <diagram id="z3EkflEHP3g3SHfT6AcB" name="Page-1">
     <mxGraphModel dx="1298" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,6 +55,9 @@
         </mxCell>
         <mxCell id="QyhtD6lABOpPmDqngVYn-20" value="权限分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QyhtD6lABOpPmDqngVYn-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;企业员工&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
