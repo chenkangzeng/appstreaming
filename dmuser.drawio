@@ -1,16 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T06:29:02.381Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="14RKu346sZ0WI8fqKhT1" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T06:33:11.519Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="qnegJDGykUEmITaKGYEw" version="14.6.13" type="github">
   <diagram id="_BGO3kCnHvh-opXhYRSR" name="Page-1">
-    <mxGraphModel dx="1082" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OK57nTrorDAZtAI-0ME9-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="60" y="60" width="360" height="220" as="geometry" />
+        <mxCell id="OK57nTrorDAZtAI-0ME9-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="342.5" width="330" height="295" as="geometry" />
         </mxCell>
-        <mxCell id="OK57nTrorDAZtAI-0ME9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OK57nTrorDAZtAI-0ME9-4" target="OK57nTrorDAZtAI-0ME9-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="120" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="OK57nTrorDAZtAI-0ME9-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="140" width="330" height="150" as="geometry" />
         </mxCell>
         <mxCell id="OK57nTrorDAZtAI-0ME9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OK57nTrorDAZtAI-0ME9-4" target="OK57nTrorDAZtAI-0ME9-11">
           <mxGeometry relative="1" as="geometry" />
@@ -18,16 +16,19 @@
         <mxCell id="OK57nTrorDAZtAI-0ME9-4" value="终端app" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OK57nTrorDAZtAI-0ME9-6" value="meta: hostname&lt;br&gt;+instanceid" style="shape=tape;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="260" y="80" width="120" height="100" as="geometry" />
+        <mxCell id="OK57nTrorDAZtAI-0ME9-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="OK57nTrorDAZtAI-0ME9-6" target="OK57nTrorDAZtAI-0ME9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OK57nTrorDAZtAI-0ME9-6" value="meta: hostname&lt;br&gt;+instanceid" style="shape=tape;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="180" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OK57nTrorDAZtAI-0ME9-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OK57nTrorDAZtAI-0ME9-9" target="OK57nTrorDAZtAI-0ME9-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="379.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OK57nTrorDAZtAI-0ME9-9" value="无影桌面服务" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="OK57nTrorDAZtAI-0ME9-9" value="无影桌面服务(sm)" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OK57nTrorDAZtAI-0ME9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="OK57nTrorDAZtAI-0ME9-11" target="OK57nTrorDAZtAI-0ME9-20">
           <mxGeometry relative="1" as="geometry" />
@@ -36,10 +37,10 @@
           <mxGeometry x="120" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OK57nTrorDAZtAI-0ME9-14" value="云桌面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="95" y="90" width="60" height="20" as="geometry" />
+          <mxGeometry x="-40" y="150" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OK57nTrorDAZtAI-0ME9-15" value="&lt;span style=&quot;font-size: 12px&quot;&gt;获取应用列表&lt;br&gt;（hostname+instanceid）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="170" y="290" width="150" height="50" as="geometry" />
+          <mxGeometry x="30" y="290" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OK57nTrorDAZtAI-0ME9-16" value="&lt;font style=&quot;font-size: 12px&quot;&gt;读取用户信息&lt;br&gt;hostname/instanceid&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="265" y="355" width="130" height="50" as="geometry" />
@@ -51,13 +52,16 @@
           <mxGeometry x="120" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OK57nTrorDAZtAI-0ME9-22" value="&lt;span style=&quot;font-size: 12px&quot;&gt;获取&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="265" y="200" width="40" height="30" as="geometry" />
+          <mxGeometry x="80" y="200" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OK57nTrorDAZtAI-0ME9-23" value="RDS" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;rounded=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="120" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OK57nTrorDAZtAI-0ME9-31" value="&lt;span style=&quot;font-size: 12px&quot;&gt;获取应用列表&lt;br&gt;（userInfo）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="190" y="410" width="90" height="50" as="geometry" />
+          <mxGeometry x="60" y="410" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OK57nTrorDAZtAI-0ME9-34" value="应用市场服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="370" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
