@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T03:16:09.627Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="zEIk0I6zDzvBm35qtq49" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T03:19:21.970Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Uq-CiZbr4u3mkl0Wjs4z" version="14.6.13" type="github">
   <diagram id="etIzUIFxZS8Xfmk2Y35V" name="Page-1">
     <mxGraphModel dx="2125" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="N-YGZ_K4RnM6IiN2btNT-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="170" y="220" width="300" height="345" as="geometry" />
+          <mxGeometry x="180" y="210" width="300" height="345" as="geometry" />
         </mxCell>
         <mxCell id="N-YGZ_K4RnM6IiN2btNT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-YGZ_K4RnM6IiN2btNT-1" target="N-YGZ_K4RnM6IiN2btNT-9">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
         <mxCell id="N-YGZ_K4RnM6IiN2btNT-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N-YGZ_K4RnM6IiN2btNT-9" target="N-YGZ_K4RnM6IiN2btNT-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N-YGZ_K4RnM6IiN2btNT-54" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px&quot;&gt;管理&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#000099;" vertex="1" connectable="0" parent="N-YGZ_K4RnM6IiN2btNT-22">
+        <mxCell id="N-YGZ_K4RnM6IiN2btNT-54" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px&quot;&gt;资源管理&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#000099;" vertex="1" connectable="0" parent="N-YGZ_K4RnM6IiN2btNT-22">
           <mxGeometry x="-0.3103" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -63,16 +63,6 @@
         </mxCell>
         <mxCell id="N-YGZ_K4RnM6IiN2btNT-39" value="对接企业账号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N-YGZ_K4RnM6IiN2btNT-38">
           <mxGeometry x="0.1547" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="N-YGZ_K4RnM6IiN2btNT-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=0.742;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N-YGZ_K4RnM6IiN2btNT-10" target="N-YGZ_K4RnM6IiN2btNT-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="334" y="476.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="N-YGZ_K4RnM6IiN2btNT-42" value="对接 BUC&lt;br&gt;和ACL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N-YGZ_K4RnM6IiN2btNT-41">
-          <mxGeometry x="-0.0735" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -105,7 +95,17 @@
         <mxCell id="N-YGZ_K4RnM6IiN2btNT-16" value="云桌面" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.scom;" vertex="1" parent="1">
           <mxGeometry x="370" y="271" width="56" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="N-YGZ_K4RnM6IiN2btNT-17" value="阿里域账号" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.application_server_ghosted;" vertex="1" parent="1">
+        <mxCell id="N-YGZ_K4RnM6IiN2btNT-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000099;" edge="1" parent="1" source="N-YGZ_K4RnM6IiN2btNT-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="478" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-YGZ_K4RnM6IiN2btNT-63" value="&lt;font style=&quot;font-size: 12px&quot;&gt;运营管理&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#000099;" vertex="1" connectable="0" parent="N-YGZ_K4RnM6IiN2btNT-62">
+          <mxGeometry x="0.0192" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-YGZ_K4RnM6IiN2btNT-17" value="BUC&amp;amp;ACL" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.application_server_ghosted;" vertex="1" parent="1">
           <mxGeometry x="210" y="450" width="46" height="56" as="geometry" />
         </mxCell>
         <mxCell id="N-YGZ_K4RnM6IiN2btNT-52" value="SERVER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#000099;fontSize=16;" vertex="1" parent="1">
