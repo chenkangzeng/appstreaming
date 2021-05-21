@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T02:31:28.061Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="zpfcbt376hohiR7oOTCS" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T02:36:26.709Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="D41w00IpAqp-iD0jvbh9" version="14.6.13" type="github">
   <diagram id="etIzUIFxZS8Xfmk2Y35V" name="Page-1">
     <mxGraphModel dx="2125" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
             <mxPoint x="405" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-YGZ_K4RnM6IiN2btNT-39" value="对接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N-YGZ_K4RnM6IiN2btNT-38">
+        <mxCell id="N-YGZ_K4RnM6IiN2btNT-39" value="对接企业账号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N-YGZ_K4RnM6IiN2btNT-38">
           <mxGeometry x="0.1547" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
