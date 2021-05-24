@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T06:34:37.930Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="mXA48aBdiq-uCptwuqz9" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T06:35:45.082Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="e2OidTXEc2GxK3Eu3fXx" version="14.6.13" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1298" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Ru3p9IBplj908BHHs6n-1" value="UserService" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="_Ru3p9IBplj908BHHs6n-1" value="UserService" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="650" y="80" width="100" height="160" as="geometry" />
         </mxCell>
         <mxCell id="_Ru3p9IBplj908BHHs6n-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
@@ -201,7 +201,7 @@
             <mxPoint x="699.5" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Ru3p9IBplj908BHHs6n-10" value="企业用户管理&#xa;（云桌面）" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="_Ru3p9IBplj908BHHs6n-10" value="企业用户管理&#xa;（云桌面）" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="827" y="80" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_Ru3p9IBplj908BHHs6n-11" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
