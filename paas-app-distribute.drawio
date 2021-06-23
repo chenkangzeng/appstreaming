@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T09:30:13.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="NNCcDbJzN0LfKpLhNmsR" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T09:31:51.708Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="JeyC6PaNoDHXZmSs7BHH" version="14.8.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2148" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,16 +94,10 @@
             <mxPoint x="-33" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ESiC_F3gS_lafTuC3X_f-42" value="发起应用发布" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-20" y="600.0000000000007" as="sourcePoint" />
-            <mxPoint x="157" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ESiC_F3gS_lafTuC3X_f-43" value="发起应用发布（appid）" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="166.5" y="630.0000000000007" as="sourcePoint" />
-            <mxPoint x="670" y="630" as="targetPoint" />
+            <mxPoint x="-23.5" y="630" as="sourcePoint" />
+            <mxPoint x="674" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ESiC_F3gS_lafTuC3X_f-44" value="应用发布" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
