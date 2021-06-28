@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T02:26:57.817Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="IwlVcUwYtnc7bbkvJtVB" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T07:14:51.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="jcPJcmt-R9oC4xRK5CvZ" version="14.8.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2148" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="ESiC_F3gS_lafTuC3X_f-25" value="适配结果通知(appid/versionid)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="280" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ESiC_F3gS_lafTuC3X_f-26" value="发起镜像制作（version id/adaptorid）" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.9;exitY=0.357;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ESiC_F3gS_lafTuC3X_f-28" edge="1">
+        <mxCell id="ESiC_F3gS_lafTuC3X_f-26" value="发起镜像制作（version id&#xa;adaptorid）" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.9;exitY=0.357;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ESiC_F3gS_lafTuC3X_f-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="166.5" y="400.0000000000007" as="sourcePoint" />
             <mxPoint x="160" y="399" as="targetPoint" />
@@ -70,14 +70,8 @@
             <mxPoint x="-33" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ESiC_F3gS_lafTuC3X_f-35" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="512.5" y="480" as="sourcePoint" />
-            <mxPoint x="170" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ESiC_F3gS_lafTuC3X_f-40" value="版本信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="520" width="62" height="20" as="geometry" />
+        <mxCell id="ESiC_F3gS_lafTuC3X_f-40" value="制作结果&lt;br&gt;(镜像数据)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="485" width="62" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ESiC_F3gS_lafTuC3X_f-41" value="应用发布" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -115,15 +109,6 @@
         <mxCell id="ESiC_F3gS_lafTuC3X_f-49" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;获取应用版本信息&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;（appid、versionid）&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="680" width="150" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ESiC_F3gS_lafTuC3X_f-50" value="获取应用版本信息&#xa;（appidversionid）" style="verticalAlign=bottom;endArrow=none;shadow=0;strokeWidth=1;startArrow=classic;startFill=1;endFill=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="167" y="270.0000000000007" as="sourcePoint" />
-            <mxPoint x="344" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ESiC_F3gS_lafTuC3X_f-37" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;获取应用版本信息&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;（appid、versionid）&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="450" width="140" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="ESiC_F3gS_lafTuC3X_f-51" value="" style="endArrow=none;html=1;dashed=1;startArrow=open;startFill=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="760" as="sourcePoint" />
@@ -133,28 +118,22 @@
         <mxCell id="ESiC_F3gS_lafTuC3X_f-52" value="版本信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="363" y="740" width="62" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GJE48jaqhEceVpNbBeRl-1" value="发起应用适配（app_id&#xa;version id）" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="GJE48jaqhEceVpNbBeRl-1" value="发起应用适配（app_id&#xa;version id...）" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="220.00000000000068" as="sourcePoint" />
             <mxPoint x="351" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GJE48jaqhEceVpNbBeRl-2" value="发起镜像制作（version id&#xa;adaptorid）" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.9;exitY=0.357;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="GJE48jaqhEceVpNbBeRl-2" value="发起镜像制作（version id&#xa;adaptorid）" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.9;exitY=0.357;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.1;entryY=0.403;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="ESiC_F3gS_lafTuC3X_f-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="430.19000000000005" as="sourcePoint" />
             <mxPoint x="343" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GJE48jaqhEceVpNbBeRl-3" value="发起镜像制作（version id&#xa;adaptor id）" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ESiC_F3gS_lafTuC3X_f-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="460" as="sourcePoint" />
-            <mxPoint x="513" y="459.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GJE48jaqhEceVpNbBeRl-4" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="GJE48jaqhEceVpNbBeRl-4" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="512.5" y="540" as="sourcePoint" />
-            <mxPoint x="170" y="540" as="targetPoint" />
+            <mxPoint x="512.5" y="510" as="sourcePoint" />
+            <mxPoint x="170" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
