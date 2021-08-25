@@ -1,1 +1,175 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T12:52:05.098Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="14.9.3" etag="dCDOZUw6kdqHY9v2ormP" type="github"><diagram id="Wvz9GBNgI8FM-CAZ9Jkj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-25T13:17:18.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="IbVKJXi1DV8DPIK_38E-" version="14.9.3" type="github">
+  <diagram id="Wvz9GBNgI8FM-CAZ9Jkj" name="Page-1">
+    <mxGraphModel dx="2092" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AIT565lb91MDrdjl6Oma-1" value="管控服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="120" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="AIT565lb91MDrdjl6Oma-1">
+          <mxGeometry x="54" y="80" width="10" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-3" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-357" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-4" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-342" y="920" as="sourcePoint" />
+            <mxPoint x="-342.5" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-5" value="轻空间服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="80" width="110" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="AIT565lb91MDrdjl6Oma-5">
+          <mxGeometry x="49" y="80" width="10" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-7" value="DB" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="80" width="100" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-8" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="AIT565lb91MDrdjl6Oma-7">
+          <mxGeometry x="45" y="80" width="10" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-9" value="配置sso_url+key" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="-0.6" relative="1" as="geometry">
+            <mxPoint x="-330" y="290" as="sourcePoint" />
+            <mxPoint x="-30" y="290" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-12" value="登录" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=-0.3;entryY=0.349;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" target="AIT565lb91MDrdjl6Oma-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340" y="399" as="sourcePoint" />
+            <mxPoint x="160" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-13" value="管控前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-77" y="80" width="100" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-14" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="AIT565lb91MDrdjl6Oma-13">
+          <mxGeometry x="45" y="80" width="10" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-15" value="配置接口（setConfig）" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-21" y="310.0000000000007" as="sourcePoint" />
+            <mxPoint x="160" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-18" value="获取sso url" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1" target="AIT565lb91MDrdjl6Oma-1">
+          <mxGeometry x="-0.567" y="10" relative="1" as="geometry">
+            <mxPoint x="-210" y="430.0000000000007" as="sourcePoint" />
+            <mxPoint x="-33" y="430" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-20" value="IDaaS" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="80" width="100" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-21" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="AIT565lb91MDrdjl6Oma-20">
+          <mxGeometry x="45" y="80" width="10" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-24" value="写入DB" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry x="-0.4706" y="10" relative="1" as="geometry">
+            <mxPoint x="170" y="330.0000000000007" as="sourcePoint" />
+            <mxPoint x="510" y="330" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-27" value="企业员工" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-28" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-465" y="920" as="sourcePoint" />
+            <mxPoint x="-465.5" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-29" value="配置应用&#xa;（重定向redirect_ur+keyl）" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="-0.9" y="20" relative="1" as="geometry">
+            <mxPoint x="-327" y="220" as="sourcePoint" />
+            <mxPoint x="673" y="220" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-32" value="无影前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="85" width="100" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-33" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="AIT565lb91MDrdjl6Oma-32">
+          <mxGeometry x="45" y="80" width="10" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-34" value="获取sso url" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry x="-0.567" y="10" relative="1" as="geometry">
+            <mxPoint x="168.25" y="460.0000000000007" as="sourcePoint" />
+            <mxPoint x="510" y="460" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-35" value="" style="endArrow=classic;html=1;entryX=0.57;entryY=0.205;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="360" as="sourcePoint" />
+            <mxPoint x="-20" y="360.1500000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-37" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="494.5" as="sourcePoint" />
+            <mxPoint x="-200" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-38" value="登录请求：sso url" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-200" y="560" as="sourcePoint" />
+            <mxPoint x="670" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-39" value="" style="endArrow=classic;html=1;dashed=1;entryX=1;entryY=0.652;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="603" as="sourcePoint" />
+            <mxPoint x="-205" y="604.8400000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-41" value="重定向redirect_url（id_token）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="23" y="585" width="110" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-43" value="重定向(id_token)" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=-0.4;entryY=0.737;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AIT565lb91MDrdjl6Oma-6">
+          <mxGeometry x="-0.35" y="10" relative="1" as="geometry">
+            <mxPoint x="-207" y="654.0000000000007" as="sourcePoint" />
+            <mxPoint x="153" y="654" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-49" value="解析id token" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="730" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-50" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="352.5" y="790" as="sourcePoint" />
+            <mxPoint x="-210" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-51" value="登录返回" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="760" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-52" value="获取key" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="670.0000000000007" as="sourcePoint" />
+            <mxPoint x="510" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIT565lb91MDrdjl6Oma-53" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="720" as="sourcePoint" />
+            <mxPoint x="360" y="721" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
