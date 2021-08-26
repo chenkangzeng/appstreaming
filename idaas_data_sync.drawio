@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-26T03:21:34.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="vEbkOiEVR1nvLTzI_Vz-" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-26T03:49:05.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="LQuetcCKL-Uw40sZlktk" version="14.9.3" type="github">
   <diagram id="NuO11RmyNh4fEla-yD1q" name="Page-1">
     <mxGraphModel dx="1265" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,13 +44,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoSfEHq5_-Fq0xSnBed_-19" value="企业账号" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="650" y="220" width="120" height="80" as="geometry" />
+          <mxGeometry x="650" y="228.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OoSfEHq5_-Fq0xSnBed_-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="OoSfEHq5_-Fq0xSnBed_-20" target="OoSfEHq5_-Fq0xSnBed_-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoSfEHq5_-Fq0xSnBed_-20" value="其他账号" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="650" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="650" y="390" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
