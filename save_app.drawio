@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T03:15:31.115Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="lIp5O7YEfCDRba4HXLu0" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T03:19:20.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="fA9sTh9oV9aqYfxNX5H7" version="16.2.4" type="github">
   <diagram id="hsqRi52qMt9K2b9NHoRX" name="Page-1">
     <mxGraphModel dx="1082" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="C4C87-9dS_-fq4pLciAC-29" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="205" width="440" height="315" as="geometry" />
+          <mxGeometry x="330" y="205" width="430" height="315" as="geometry" />
         </mxCell>
         <mxCell id="C4C87-9dS_-fq4pLciAC-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C4C87-9dS_-fq4pLciAC-3" target="C4C87-9dS_-fq4pLciAC-8">
           <mxGeometry relative="1" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="C4C87-9dS_-fq4pLciAC-6" value="eds_appcenter_ops" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
           <mxGeometry x="640" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C4C87-9dS_-fq4pLciAC-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="C4C87-9dS_-fq4pLciAC-7" target="C4C87-9dS_-fq4pLciAC-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C4C87-9dS_-fq4pLciAC-7" value="eds_app_center_core" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
           <mxGeometry x="480" y="370" width="80" height="80" as="geometry" />
@@ -65,7 +68,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C4C87-9dS_-fq4pLciAC-30" value="服务端" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="360" y="445" width="70" height="35" as="geometry" />
+          <mxGeometry x="500" y="480" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="C4C87-9dS_-fq4pLciAC-31" value="&lt;font style=&quot;font-size: 12px&quot;&gt;DB&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/computers/Database_Add_128x128.png;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="370" y="385" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
