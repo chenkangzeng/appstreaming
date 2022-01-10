@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T03:35:39.742Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.2.4" etag="EhXJn4o89Ox_afBOCeye" type="github"><diagram id="cXjt5OJQYSyqdkeE494u">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-10T07:15:38.262Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="qmHRiGDdlEi51z-q37R9" version="16.2.4" type="github">
+  <diagram id="cXjt5OJQYSyqdkeE494u" name="Page-1">
+    <mxGraphModel dx="2125" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EnNer6I3iUnSDJh6466I-1" value="core" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="100" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="EnNer6I3iUnSDJh6466I-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="EnNer6I3iUnSDJh6466I-1">
+          <mxGeometry x="45" y="70" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="EnNer6I3iUnSDJh6466I-3" value="DB" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="90" width="110" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="EnNer6I3iUnSDJh6466I-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="EnNer6I3iUnSDJh6466I-3">
+          <mxGeometry x="50" y="80" width="10" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="EnNer6I3iUnSDJh6466I-5" value="保存" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="282.5" y="230.00000000000068" as="sourcePoint" />
+            <mxPoint x="437.5" y="230.00000000000068" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EnNer6I3iUnSDJh6466I-6" value="企业管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EnNer6I3iUnSDJh6466I-11" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1" target="EnNer6I3iUnSDJh6466I-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="274" as="sourcePoint" />
+            <mxPoint x="-10" y="274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EnNer6I3iUnSDJh6466I-12" value="return" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="252" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EnNer6I3iUnSDJh6466I-22" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-15" y="410" as="sourcePoint" />
+            <mxPoint x="-15.5" y="173.92000000000007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EnNer6I3iUnSDJh6466I-23" value="admin" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="100" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="EnNer6I3iUnSDJh6466I-24" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="EnNer6I3iUnSDJh6466I-23">
+          <mxGeometry x="45" y="70" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="EnNer6I3iUnSDJh6466I-25" value="设置黑名单" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" edge="1" parent="EnNer6I3iUnSDJh6466I-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="102" as="sourcePoint" />
+            <mxPoint x="45" y="102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EnNer6I3iUnSDJh6466I-26" value="" style="endArrow=classic;html=1;" edge="1" parent="EnNer6I3iUnSDJh6466I-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55.5" y="120" as="sourcePoint" />
+            <mxPoint x="190" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EnNer6I3iUnSDJh6466I-33" value="设置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="185" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
