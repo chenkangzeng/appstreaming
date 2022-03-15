@@ -1,1 +1,125 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T02:45:46.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.1.2" etag="7O-IOvwa9tThRIh1EJTo" type="github"><diagram id="qKNgl2ovEX6diSB9twGR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-15T03:09:50.297Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="XrrGEf8o-LlTFLHWDfxQ" version="17.1.2" type="github">
+  <diagram id="qKNgl2ovEX6diSB9twGR" name="Page-1">
+    <mxGraphModel dx="2063" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-1" value="云应用服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="100" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="AekgYvlIXJmt_BvOW-qu-1">
+          <mxGeometry x="45" y="70" width="10" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-7" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="AekgYvlIXJmt_BvOW-qu-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210.45" y="164" as="sourcePoint" />
+            <mxPoint x="-95.00238095238075" y="164" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-21" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="AekgYvlIXJmt_BvOW-qu-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205.44999999999982" y="240" as="sourcePoint" />
+            <mxPoint x="-100.00238095238092" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-45" value="设置版本&lt;br&gt;检验状态" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="AekgYvlIXJmt_BvOW-qu-1">
+          <mxGeometry x="-20" y="390" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-3" value="DB" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="90" width="110" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="AekgYvlIXJmt_BvOW-qu-3">
+          <mxGeometry x="50" y="80" width="10" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-35" value="" style="endArrow=classic;html=1;" edge="1" parent="AekgYvlIXJmt_BvOW-qu-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-105" y="300" as="sourcePoint" />
+            <mxPoint x="204.5" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-6" value="租户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-8" value="return" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="230" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-9" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-15" y="680" as="sourcePoint" />
+            <mxPoint x="-15.5" y="173.92000000000007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-10" value="应用中心服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="100" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-11" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="AekgYvlIXJmt_BvOW-qu-10">
+          <mxGeometry x="45" y="70" width="10" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-12" value="应用创建" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" edge="1" parent="AekgYvlIXJmt_BvOW-qu-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="102" as="sourcePoint" />
+            <mxPoint x="45" y="102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-13" value="" style="endArrow=classic;html=1;" edge="1" parent="AekgYvlIXJmt_BvOW-qu-10" target="AekgYvlIXJmt_BvOW-qu-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="210" as="sourcePoint" />
+            <mxPoint x="290" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-16" value="应用+版本创建" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1" target="AekgYvlIXJmt_BvOW-qu-3">
+          <mxGeometry x="-0.5153" y="10" relative="1" as="geometry">
+            <mxPoint x="135" y="220" as="sourcePoint" />
+            <mxPoint x="270" y="220" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-14" value="创建适配" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-20" value="通知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-19" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="370" as="sourcePoint" />
+            <mxPoint x="270" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-22" value="return" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="310" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-26" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125.44999999999982" y="430" as="sourcePoint" />
+            <mxPoint x="-10" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-25" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277.7299999999998" y="410" as="sourcePoint" />
+            <mxPoint x="135" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-31" value="云应用运营&#xa;（小二）" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="90" width="100" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-32" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="AekgYvlIXJmt_BvOW-qu-31">
+          <mxGeometry x="45" y="70" width="10" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-41" value="适配" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="AekgYvlIXJmt_BvOW-qu-31">
+          <mxGeometry x="60" y="310" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-37" value="通知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="370" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AekgYvlIXJmt_BvOW-qu-42" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1" target="AekgYvlIXJmt_BvOW-qu-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="602.7299999999996" y="470" as="sourcePoint" />
+            <mxPoint x="460" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
